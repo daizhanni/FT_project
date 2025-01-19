@@ -3,7 +3,7 @@
     <nav>
       <ul>
         <li v-for="link in links" :key="link.id" :class="{ active: activeSection === link.id }">
-          <router-link :to="'#' + link.id" @click.native.prevent="scrollToSection(link.id)">
+          <router-link :to="'/' + link.id" @click.native.prevent="scrollToSection(link.id)">
             {{ $t(`links.${link.id}.name`) }}
           </router-link>
         </li>
@@ -86,7 +86,7 @@ export default {
       const section = document.getElementById(id);
       if (section) {
         section.scrollIntoView({ behavior: 'smooth' });
-        this.updateUrlHash(id);
+        this.updateUrlWithoutHash(id); // Убираем хэш
       }
     },
     onScroll() {
@@ -97,19 +97,17 @@ export default {
         if (section.offsetTop <= scrollPosition && section.offsetTop + section.offsetHeight > scrollPosition) {
           if (this.activeSection !== section.id) {
             this.activeSection = section.id;
-            this.updateUrlHash(section.id);
+            this.updateUrlWithoutHash(section.id); // Убираем хэш
           }
           break;
         }
       }
     },
-    updateUrlHash(id) {
+    updateUrlWithoutHash(id) {
       if (history.pushState) {
         const url = new URL(window.location);
-        url.hash = id;
-        history.pushState(null, '', url);
-      } else {
-        window.location.hash = id;
+        url.hash = ''; // Убираем хэш из URL
+        history.pushState(null, '', url); // Обновляем URL без хэша
       }
     },
   },
