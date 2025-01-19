@@ -1,0 +1,113 @@
+{
+  "sk": {
+    "header": {
+      "title": "Študuj vedu",
+      "description": "Lorem ipsum dolor sit amet..."
+    },
+    "footer": {
+      "text": "© 2025 Študuj vedu. Všetky práva vyhradené."
+    },
+    "intro": {
+      "title": "O projekte",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    "fieldsOverview": {
+      "title": "Naše vedné odbory v skratke",
+      "description": "Lorem ipsum dolor sit amet..."
+    },
+    "future": {
+      "title": "Vieš, kým chceš byť?",
+      "description": "Tu nájdeš video s ukážkami možností."
+    },
+    "studyWithUs": {
+      "title": "Prečo študovať u nás?",
+      "reasons": [
+        { "title": "Široký záber štúdia", "description": "Popis..." },
+        { "title": "Moderné prostredie", "description": "Popis..." },
+        { "title": "Individuálny prístup", "description": "Popis..." }
+      ]
+    },
+    "whyStudy": {
+      "title": "Prečo študovať vedu?",
+      "reasons": [
+        { "title": "Pre vedomosť", "description": "Štúdium vedy umožňuje pochopiť základné princípy..." },
+        { "title": "Pre budúcnosť", "description": "Veda je cestou k úspešnej budúcnosti..." },
+        { "title": "Pre zábavu", "description": "Objavovanie nových vecí je fascinujúce..." }
+      ]
+    }
+  },
+  "en": {
+    "header": {
+      "title": "Study Science",
+      "description": "Lorem ipsum dolor sit amet..."
+    },
+    "footer": {
+      "text": "© 2025 Study Science. All rights reserved."
+    },
+    "intro": {
+      "title": "About the project",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    "fieldsOverview": {
+      "title": "Our scientific fields in short",
+      "description": "Lorem ipsum dolor sit amet..."
+    },
+    "future": {
+      "title": "Do you know who you want to be?",
+      "description": "Here you will find a video with options."
+    },
+    "studyWithUs": {
+      "title": "Why study with us?",
+      "reasons": [
+        { "title": "Wide range of studies", "description": "Description..." },
+        { "title": "Modern environment", "description": "Description..." },
+        { "title": "Individual approach", "description": "Description..." }
+      ]
+    },
+    "whyStudy": {
+      "title": "Why study science?",
+      "reasons": [
+        { "title": "For knowledge", "description": "Studying science helps you understand basic principles..." },
+        { "title": "For the future", "description": "Science is the path to a successful future..." },
+        { "title": "For fun", "description": "Discovering new things is fascinating..." }
+      ]
+    }
+  },
+  "kz": {
+    "header": {
+      "title": "Ғылымды оқы",
+      "description": "Lorem ipsum dolor sit amet..."
+    },
+    "footer": {
+      "text": "© 2025 Ғылымды оқы. Барлық құқықтар қорғалған."
+    },
+    "intro": {
+      "title": "Жоба туралы",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    "fieldsOverview": {
+      "title": "Біздің ғылыми салалар қысқаша",
+      "description": "Lorem ipsum dolor sit amet..."
+    },
+    "future": {
+      "title": "Қалай болғыңыз келетінін білесіз бе?",
+      "description": "Мұнда сіз таңдауларды қамтитын бейнемазмұнды таба аласыз."
+    },
+    "studyWithUs": {
+      "title": "Бізбен оқудың артықшылықтары",
+      "reasons": [
+        { "title": "Оқытудың кең ауқымы", "description": "Сипаттама..." },
+        { "title": "Заманауи орта", "description": "Сипаттама..." },
+        { "title": "Жеке көзқарас", "description": "Сипаттама..." }
+      ]
+    },
+    "whyStudy": {
+      "title": "Неліктен ғылымды оқыңыз?",
+      "reasons": [
+        { "title": "Білім үшін", "description": "Ғылымды оқыту негізгі принциптерді түсінуге көмектеседі..." },
+        { "title": "Болашақ үшін", "description": "Ғылым – табысты болашаққа апаратын жол..." },
+        { "title": "Қызығушылық үшін", "description": "Жаңа нәрселерді ашу қызықты..." }
+      ]
+    }
+  }
+}

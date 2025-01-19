@@ -1,0 +1,659 @@
+{
+  "en": {
+    "links": {
+      "fields-overview": { "name": "Fields Overview" },
+      "why-study": { "name": "Why Study" },
+      "future": { "name": "Future" },
+      "study-with-us": { "name": "Study With Us" },
+      "products": { "name": "Products" },
+      "cart": { "name": "Cart" },
+      "instagram": { "name": "Instagram" }
+    },
+    "header": {
+      "title": "Study Science",
+      "description": "Welcome to our website."
+    },
+    "fields-overview": {
+      "title": "Our scientific fields at a glance",
+      "view-all": "View All",
+      "back-to-overview": "Back to Fields Overview",
+      "study-button": "Start studying",
+      "fields": [
+        {"title": "MATHEMATICS", "slug": "matematika", "description": "Are you interested in the mother of all sciences?\nDo you like proving that you are right?\nDo you want to solve problems instead of creating them?\nDo you want to follow Euclid, Pythagoras, and Socrates and understand practice through theory?"},
+        {"title": "COMPUTER SCIENCE", "slug": "informatika", "description": "Do you enjoy working with computers?\nDo you like making your life easier with technology?\nDo you want to design apps for mobile devices and program robots?\nDo you want invaluable knowledge in the highest-paying industry?"},
+        {"title": "CHEMISTRY", "slug": "chemia", "description": "Do you want to know the truth about antioxidants and free radicals?\nDid you know that Au doesn’t just mean pain?\nDo you want to know the difference between a sorbent and a sorbate?\nDo you want to know if and how toxic substances threaten you?"},
+        {"title": "ECOLOGY AND ENVIRONMENTAL SCIENCE", "slug": "ekologia-a-environmentalistika", "description": "Do you want to know what diversity means at a university?\nDo you feel the need to help and protect nature?\nAre you interested in unusual ecosystems?\nDo you care about the microclimate of your region?"},
+        {"title": "GEOGRAPHY", "slug": "geografia", "description": "Are you interested in the backstage of geopolitical games?\nDo you want to know why there is still conflict in the Middle East?\nDo you want to do something for your region?\nDo you want to design the optimal location for a factory with 800 jobs?"},
+        {"title": "ECONOMICS", "slug": "ekonomika", "description": "Do you want to know the truth about the current financial crisis?\nDo you want to learn how to invest properly?\nDo you like talking about money even when you don't have it?\nDo you enjoy analysis and filling out tables correctly?"},
+        {"title": "BIOLOGY", "slug": "biologia", "description": "Do you want to create your own 'cellfie'?\nDo you want to know what wasn't true in the TV series Bones?\nDo you want to explore (even your own) DNA?\nDo you want to investigate if cells are capable of committing suicide?"},
+        {"title": "GEMOLOGY", "slug": "gemologia", "description": "Do you want to know the real price of the jewelry you're buying?\nDo you want to distinguish between a real and a fake diamond?\nDo you want to search for new sources of natural gem materials?\nDo you want to gain skills in jewelry crafting?"},
+        {"title": "TEACHER TRAINING", "slug": "ucitelstvo", "description": "Are you interested in multiple fields? Is one subject not enough for you and you want to study two?\nDo you want to combine natural, social, and pedagogical sciences?\nDo you enjoy teaching others?\nDo you believe teaching is a calling?"}
+      ],
+      "modal": {
+        "form-submission-message": "Thank you, {name}! We will send the information to {email}.",
+        "name-placeholder": "Your Name",
+        "email-placeholder": "Your Email",
+        "title": "Your name",
+        "email": "Your email",
+        "submit": "Submit",
+        "close": "Close"
+      }
+    },
+    "study-with-us": {
+      "title": "Why study with us?",
+      "cards": [
+        {"title": "Wide Range of Study", "description": "The faculty offers a wide range of study programs covering almost all areas of natural sciences, including ecology, economics, computer science, and gemology."},
+        {"title": "Follow-up Bachelor's and Master's Programs", "description": "It is not a standard in every faculty that students have the opportunity to continue in the same or related study programs after completing their Bachelor's degree."},
+        {"title": "Modern Environment", "description": "We have used EU funds for modernization, including upgrading equipment, IT systems, and student dormitories. All our spaces meet 21st century standards."},
+        {"title": "No Stress with Entrance Exams", "description": "We do not stress applicants with entrance exams because we believe that a short period of illness should not disqualify a student's future."},
+        {"title": "Individual Approach", "description": "Thanks to the smaller number of students compared to 'large' universities, studying here is more intimate. Students study in smaller groups, and teachers have enough time to devote to them."},
+        {"title": "Student Life", "description": "Your new student life can be enhanced by scholarships, Wi-Fi everywhere, the famous ISIC student discount card, and delicious, affordable food at the university cafeteria."}
+      ]
+    },
+    "why-study": {
+      "title": "Why study science?",
+      "cards": [
+        {"title": "For Knowledge", "description": "Studying science will teach you to think precisely and not accept commonly accepted misinformation. \nYou will gain up-to-date knowledge in the field of study.\n It will give you confidence and allow you to solve problems accurately in other fields as well.\n Studying science will teach you to search for information and assess its relevance."},
+        {"title": "For the Future", "description": "Science will allow you to see into the future.\n It will help you understand relationships.\n Through science, you will not only be able to track the future but also shape it.\n By studying science, you are learning for life and practice, and after school, you will have a secure job."},
+        {"title": "For Fun", "description": "You sharpen your mind – while studying, you solve problems, tasks, and gain valuable experience.\n You meet new people with similar focus, interests, and goals.\n Thanks to study abroad programs, you can explore new countries, customs, and make friends internationally.\n Through professional practice, you can try jobs in places you would never have access to otherwise."}
+      ]
+
+    },
+
+    "social": {
+      "instagram": {
+        "url": "https://www.instagram.com/fpvai.ukf",
+        "image": "/foto/ukfi.jpg"
+      },
+      "facebook": {
+        "url": "https://www.facebook.com/fpvai.ukf",
+        "image": "/foto/ukff.jpg"
+      }
+    },
+    "future": {
+      "title": "Do you know who you want to be?",
+      "description": "Here you will find a video with examples of possibilities."
+    },
+    "instagram": {
+      "title": "Follow us on Instagram",
+      "handle": "fpvai.ukf",
+      "link": "Visit Instagram"
+    },
+    "footer": {
+      "text": "Thank you for visiting our website!",
+      "contact": "Contact Us",
+      "phone": "Phone",
+      "email": "Email"
+    },
+    "products_title": "University Apparel",
+    "currency": "$",
+    "cart_button": "🛒",
+    "cart_title": "Your Cart",
+    "cart_empty": "Your cart is empty.",
+    "remove_button": "Remove",
+    "total": "Total",
+    "items_count": "Items Count",
+    "clear_cart": "Clear Cart",
+    "size": "Size",
+    "products": [
+      {
+        "id": 1,
+        "name": "Bag",
+        "description": "UKF, Bag",
+        "price": 11.58,
+        "sizes": ["One Size"],
+        "image": "/foto/ukf15.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Men's Hoodie (White)",
+        "description": "FPVaI, Hoodie",
+        "price": 31.58,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf14.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Men's Hoodie (Black)",
+        "description": "FPVaI, Hoodie",
+        "price": 31.58,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf13.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Women's Zip Hoodie (Green)",
+        "description": "FPVaI, Hoodie",
+        "price": 34.74,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf12.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Women's Zip Hoodie (Black)",
+        "description": "FPVaI, Hoodie",
+        "price": 34.74,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf9.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Women's Zip Hoodie (White)",
+        "description": "FPVaI, Hoodie",
+        "price": 34.74,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf6.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Women's T-shirt (White:FF)",
+        "description": "UKF, T-shirt",
+        "price": 12.63,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf10.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Women's T-shirt (White)",
+        "description": "FPVaI, T-shirt",
+        "price": 12.63,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf11.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Women's T-shirt (Green)",
+        "description": "FPVaI, T-shirt",
+        "price": 12.63,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf4.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Women's T-shirt (Black)",
+        "description": "FPVaI, T-shirt",
+        "price": 12.63,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf5.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Men's Hoodie (Black)",
+        "description": "UKF, Hoodie",
+        "price": 30.75,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf7.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Women's Hoodie (Blue)",
+        "description": "UKF, Hoodie",
+        "price": 31.58,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf8.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Women's Polo Shirt (White)",
+        "description": "FPVaI, Polo Shirt",
+        "price": 15.80,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf3.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Women's Polo Shirt (Black)",
+        "description": "FPVaI, Polo Shirt",
+        "price": 15.80,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf2.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Women's Polo Shirt (Green)",
+        "description": "FPVaI, Polo Shirt",
+        "price": 15.80,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf1.jpg"
+      }
+    ]
+},
+  "sk": {
+    "links": {
+      "fields-overview": { "name": "Prehľad oblastí" },
+      "why-study": { "name": "Prečo študovať" },
+      "future": { "name": "Budúcnosť" },
+      "study-with-us": { "name": "Študujte s nami" },
+      "products": { "name": "Produkty" },
+      "cart": { "name": "Košík" },
+      "instagram": { "name": "Instagram" }
+    },
+    "header": {
+      "title": "Študuj vedu",
+      "description": "Vitajte na našej webovej stránke."
+    },
+    "fields-overview": {
+      "title": "Naše vedné odbory v skratke",
+      "view-all": "Zobraziť všetko",
+      "back-to-overview": "Späť na prehľad odborov",
+      "additional-info": "Viac informácií o štúdiu nájdete na našej webstránke.",
+      "study-button": "Začať štúdium",
+      "fields": [
+        { "title": "MATEMATIKA", "slug": "matematika", "description": "Zaujíma ťa pramatka všetkých vied?\nRád dokazuješ, že máš pravdu?\nChceš namiesto robenia problémov problémy riešiť?\nChceš nasledovať Euklida, Pytagora a Sokrata a pochopiť prax cez teóriu?" },
+        { "title": "INFORMATIKA", "slug": "informatika", "description": "Baví ťa práca s počítačom?\nRád si uľahčíš život technikou?\nChceš navrhovať apky pre mobilné zariadenia a programovať roboty?\nChceš neoceniteľné vedomosti v najlepšie zarábajúcom odvetví?" },
+        { "title": "CHÉMIA", "slug": "chemia", "description": "Chceš vedieť pravdu o antioxidantoch a voľných radikáloch?\nVieš, že Au neznamená len bolesť?\nChceš vedieť, aký je rozdiel medzi sorbentom a sorbátom?\nChceš vedieť, či a ako ťa ohrozujú toxické látky?" },
+        { "title": "EKOLÓGIA A ENVIROMENTALISTIKA", "slug": "ekologia-a-environmentalistika", "description": "Chceš vedieť čo je diverzita na univerzite?\nCítiš potrebu pomáhať a chrániť prírodu?\nZaujímajú ťa nezvyčajné ekosystémy?\nLeží ti na srdci mikroklíma tvojho regiónu?" },
+        { "title": "GEOGRAFIA", "slug": "geografia", "description": "Zaujíma ťa zákulisie geopolitických hier?\nZaujíma ťa, prečo sa na Blízkom východe stále bojuje?\nChceš urobiť niečo pre svoj región?\nChceš navrhnúť optimálne umiestnenie závodu s 800 pracovnými miestami?" },
+        { "title": "EKONOMIKA", "slug": "ekonomika", "description": "Chceš poznať pravdu o súčasnej finančnej kríze?\nChceš vedieť správne investovať?\nChceš sa baviť o peniazoch, aj keď ich nemáš?\nMáš rád analýzy a správne vyplnené tabulky?" },
+        { "title": "BIOLÓGIA", "slug": "biologia", "description": "Chceš si vytvoriť vlastnú „cellfie“?\nChceš vedieť, čo v seriáli Kosti nebola pravda?\nChceš preskúmať (aj svoju) DNA?\nChceš skúmať či sú bunky schopné spáchať samovraždu?" },
+        { "title": "GEMOLÓGIA", "slug": "gemologia", "description": "Chceš poznať naozajstnú cenu šperku, ktorý kupuješ?\nChceš vedieť rozoznať pravý a falošný diamant?\nChceš hľadať nové zdroje prírodných šperkových materiálov?\nChceš získať zručnosti pri opracúvaní a tvorbe šperkov?" },
+        { "title": "UČITEĽSTVO", "slug": "ucitelstvo", "description": "Zaujíma ťa viac oblastí?\nJe ti jeden predmet málo a chceš študovať dva?\nChceš skombinovať prírodné, spoločenské a pedagogické vedy?\nRád poučuješ iných?\nVeríš tomu, že učiteľstvo je poslaním?" }
+      ],
+      "modal": {
+        "form-submission-message": "Ďakujeme, {name}! Informácie pošleme na {email}.",
+        "name-placeholder": "Vaše meno",
+        "email-placeholder": "Váš email",
+        "title": "Tvoje meno",
+        "email": "Tvoj email",
+        "submit": "Odoslať",
+        "close": "Zatvoriť"
+      }
+    },
+    "study-with-us": {
+      "title": "Prečo študovať s nami?",
+      "cards": [
+        { "title": "Široký záber štúdia", "description": "Fakulta ponúka široké spektrum študijných programov, ktoré pokrýva prakticky všetky oblasti prírodných vied. Okrem štandardných vied ako matematika, fyzika, geografia, biológia a chémia, majú na fakulte svoje miesto aj ekológia, ekonomika, informatika a gemológia." },
+        { "title": "Nadväzujúce programy bakalárskeho a magisterského štúdia", "description": "Nie je na každej fakulte štandardom, že študenti po ukončení bakalárskeho štúdia majú možnosť pokračovať na rovnakom alebo podobnom študijnom programe." },
+        { "title": "Moderné prostredie", "description": "Za ostatných niekoľko rokov sme využívali eurofondy na modernizáciu zariadení, informačných technológií a internátov pre študentov. Všetky naše priestory sú modernizované a zodpovedajú štandardom 21. storočia." },
+        { "title": "Nestresujeme uchádzačov prijímacími skúškami", "description": "Nestresujeme uchádzačov testami na prijímacích skúškach, pretože si myslíme, že krátka indispozícia nemôže diskvalifikovať budúcnosť študenta." },
+        { "title": "Individuálny prístup", "description": "Vďaka menšiemu počtu študentov oproti 'veľkým' univerzitám, je štúdium u nás komornejšie, študenti študujú v menších krúžkoch a pedagógovia majú dostatok času sa im venovať." },
+        { "title": "Študentský život", "description": "Tvoj nový študentský život Ti môžu vylepšiť aj štipendia, Wifi všade, kde sa pohneš, ISIC karta pre študentské zľavy a chutné jedlo v univerzitnej jedálni." }
+
+      ]
+    },
+    "why-study": {
+      "title": "Prečo študovať vedu?",
+      "cards": [
+        {"title": "Pre vedomosť", "description": "Štúdium vedy ťa naučí exaktne myslieť a neprijímať všeobecne zaužívané dezinformácie.\nZískaš aktuálne vedomosti zo študovanej oblasti.\n Dodá ti sebadôveru a umožní exaktne riešiť problémy aj v iných oblastiach.\n Štúdium vedy ťa naučí hľadať informácie a posudzovať ich relevantnosť."},
+        {"title": "Pre budúcnosť", "description": "Veda ti umožní vidieť do budúcnosti. \nUmožní ti pochopiť súvislosti.\n Pomocou vedy dokážeš budúcnosť nielen sledovať, ale aj vytvárať. \nŠtúdiom vedy sa učíš pre život a prax po skončení školy, kde máš isté zamestnanie."},
+        {"title": "Pre zábavu", "description": "Cibríš si mozog - v rámci štúdia riešiš problémy, úlohy a získavaš cenné skúsenosti.\n Spoznávaš nových ľudí s rovnakým zameraním, spoločnými záujmami a podobnými cieľmi.\nVďaka študijným pobytom máš možnosť spoznávať nové krajiny, zvyky a nájsť si priateľov aj v zahraničí.\n Vďaka odbornej praxi si môžeš vyskúšať prácu aj na miestach, kam by si sa inak nikdy nedostal."}
+      ]
+
+    },
+    "social": {
+      "instagram": {
+        "url": "https://www.instagram.com/fpvai.ukf",
+        "image": "/foto/ukfi.jpg"
+      },
+      "facebook": {
+        "url": "https://www.facebook.com/fpvai.ukf",
+        "image": "/foto/ukff.jpg"
+      }
+    },
+    "future": {
+      "title": "Vieš, kým chceš byť?",
+      "description": "Tu nájdeš video s ukážkami možností."
+    },
+    "instagram": {
+      "title": "Sleduj nás na Instagrame",
+      "handle": "@fpvai.ukf",
+      "link": "Navštíviť Instagram"
+    },
+    "footer": {
+      "text": "Ďakujeme, že ste navštívili našu webovú stránku!",
+      "contact": "Kontaktujte nás",
+      "phone": "Telefón",
+      "email": "E-mail"    },
+    "products_title": "Univerzitné oblečenie",
+    "currency": "€",
+    "cart_button": "🛒",
+    "cart_title": "Váš Kôš",
+    "cart_empty": "V košíku nie sú žiadne produkty.",
+    "remove_button": "Odstrániť",
+    "total": "Spolu",
+    "items_count": "Počet produktov",
+    "clear_cart": "Vymazať Kôš",
+    "size": "Veľkosť",
+    "products": [
+      {
+        "id": 1,
+        "name": "Nákupná taška",
+        "description": "UKF, Taška",
+        "price": 11.28,
+        "sizes": ["One Size"],
+        "image": "/foto/ukf15.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Pánska mikina(biela)",
+        "description": "FPVaI, Mikina",
+        "price": 30.75,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf14.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Pánska mikina(čierna)",
+        "description": "FPVaI, Mikina",
+        "price": 30.75,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf13.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Dámska mikina so zipsom(zelená)",
+        "description": "FPVaI, Mikina",
+        "price": 33.83,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf12.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Dámska mikina so zipsom(čierna)",
+        "description": "FPVaI, Mikina",
+        "price": 33.83,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf9.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Dámska mikina so zipsom(biela)",
+        "description": "FPVaI, Mikina",
+        "price": 33.83,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf6.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Dámske tričko(biella:FF)",
+        "description": "UKF, Tričko",
+        "price": 12.30,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf10.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Dámske tričko(biela)",
+        "description": "FPVaI, Tričko",
+        "price": 12.30,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf11.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Dámske tričko(zelená)",
+        "description": "FPVaI, Tričko",
+        "price": 12.30,
+        "sizes": ["S", "M", "L","XL"],
+        "image": "/foto/ukf4.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Dámske tričko(čierna)",
+        "description": "FPVaI, Tričko",
+        "price": 12.30,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf5.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Pánska mikina(čierna)",
+        "description": "UKF, Mikina",
+        "price": 30.75,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf7.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Dámska mikina(modrá)",
+        "description": "UKF, Mikina",
+        "price": 30.75,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf8.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Dámska polokošeľa(biela)",
+        "description": "FPVaI, Polokošeľa",
+        "price": 15.38,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf3.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Dámska polokošeľa(čierna)",
+        "description": "FPVaI, Polokošeľa",
+        "price":15.38,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf2.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Dámska polokošeľa(zelená)",
+        "description": "FPVaI, Polokošeľa",
+        "price": 15.38,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf1.jpg"
+      }
+    ]
+  },
+  "kz": {
+    "links": {
+      "fields-overview": { "name": "Салаларға шолу" },
+      "why-study": { "name": "Неліктен оқу керек" },
+      "future": { "name": "Болашақ" },
+      "study-with-us": { "name": "Бізбен бірге оқыңыз" },
+      "products": { "name": "Өнімдер" },
+      "cart": { "name": "Себет" },
+      "instagram": { "name": "Инстаграм" }
+    },
+
+    "header": {
+      "title": "Ғылымды оқы",
+      "description": "Біздің веб-сайтымызға қош келдіңіз."
+    },
+    "fields-overview": {
+      "title": "Біздің ғылыми салаларымыз қысқаша",
+      "view-all": "Барлығын көру",
+      "back-to-overview": "Құрылымға оралу",
+      "study-button": "Оқу бастау",
+      "fields": [
+        {"title": "МАТЕМАТИКА", "slug": "matematika", "description": "Барлық ғылымдардың анасы қызықтырады ма?\nӨзіңнің дұрыс екеніңді дәлелдеуді жақсы көресің бе?\nМәселелерді жасау орнына оларды шешкің келе ме?\nЕвклидті, Пифагора мен Сократты ұстанып, теория арқылы практиканы түсінгің келе ме?"},
+        {"title": "ИНФОРМАТИКА", "slug": "informatika", "description": "Компьютермен жұмыс істеуді ұнатасың ба?\nТехнологиямен өміріңді жеңілдеткенді ұнатасың ба?\nМобильді құрылғыларға қосымшалар жобалап, роботтарды бағдарламалағың келе ме?\nЕң жоғары төленетін салада құнды білім алғың келе ме?"},
+        {"title": "ХИМИЯ", "slug": "chemia", "description": "Антиоксиданттар мен бос радикалдар туралы шындықты білгің келе ме?\nAu тек ауыруды білдіретінін білдің бе?\nСорбент пен сорбат арасындағы айырмашылықты білгің келе ме?\nТоксикалық заттар сен үшін қауіпті ме және олардан қалай сақтануға болатынын білгің келе ме?"},
+        {"title": "ЭКОЛОГИЯ ЖӘНЕ ҚОРШАҒАН ОРТА ҒЫЛЫМЫ", "slug": "ekologia-a-environmentalistika", "description": "Университетте әртүрлілік деген не екенін білгің келе ме?\nТабиғатты қорғауға және көмектесуге деген қажеттілікті сезінесің бе?\nҚызық экожүйелерге қызығасың ба?\nӨз аймағыңның микро климатына алаңдайсың ба?"},
+        {"title": "ГЕОГРАФИЯ", "slug": "geografia", "description": "Геосаяси ойындардың артындағы құпияларға қызығасың ба?\nНеліктен Таяу Шығыста әлі де қақтығыстар бар екенін білгің келе ме?\nӨз аймағың үшін бір нәрсе жасағың келе ме?\n800 жұмыс орны бар зауыттың оңтайлы орналасуын жобалағың келе ме"},
+        {"title": "ЭКОНОМИКА", "slug": "ekonomika", "description": "Қазіргі қаржылық дағдарыс туралы шындықты білгің келе ме?\nДұрыс инвестиция жасауды үйренгің келе ме?\nАқша жоқ болса да, ақша туралы сөйлескенді ұнатасың ба?\nТалдау жасауды және кестелерді дұрыс толтыруды ұнатасың ба?"},
+        {"title": "БИОЛОГИЯ", "slug": "biologia", "description": "Өз «cellfie»-іңді жасағың келе ме?\n«Костюмдер» телехикаясында не дұрыс болмағанын білгің келе ме?\nӨз ДНҚ-ыңды зерттегің келе ме?\nЖасушалар өзін-өзі өлтіруге қабілетті ме екенін зерттегің келе ме?"},
+        {"title": "ГЕМОЛОГИЯ", "slug": "gemologia", "description": "Сатып алған зергерлік бұйымыңның шынайы бағасын білгің келе ме?\nШынайы және жасанды алмазды ажыратуды үйренгің келе ме?\nЖаңа табиғи асыл тастардың көздерін іздегің келе ме?\nЗергерлік бұйымдар жасауда дағдыларды игергің келе ме?"},
+        {"title": "ҰСТАЗДАРДЫ ДАЯРЛАУ", "slug": "ucitelstvo", "description": "Әртүрлі салалар қызықты ма?\nБір пән сені қанағаттандырмайды ма және екі пәнді оқығың келе ме?\nТабиғи, әлеуметтік және педагогикалық ғылымдарды біріктіруді қалайсың ба?\nБасқаларды оқытуды ұнатасың ба?\nҰстаздық - бұл шақыру деп санайсың ба?"}
+      ],
+      "modal": {
+        "form-submission-message": "Рахмет, {name}! Біз сізге ақпаратты {email} мекен-жайына жібереміз.",
+        "name-placeholder": "Атыңыз",
+        "email-placeholder": "Электрондық поштаңыз",
+        "title": "Сіздің атыңыз",
+        "email": "Сіздің электрондық поштаңыз",
+        "submit": "Жіберу",
+        "close": "Жабу"
+      }
+    },
+    "study-with-us": {
+      "title": "Неліктен бізбен оқу керек?",
+      "cards": [
+        {"title": "Ғылымды оқыту ауқымы", "description": "Факультет табиғи ғылымдардың барлық салаларын қамтитын кең ауқымды оқу бағдарламаларын ұсынады. Математика, физика, география, биология және химия сияқты стандартты пәндерден басқа, факультетте экология, экономика, информатика және гемология да оқытылады."},
+        {"title": "Бакалавриат және магистратура бағдарламалары", "description": "Әрбір факультетте студенттер бакалавр дәрежесін аяқтағаннан кейін сол немесе ұқсас оқу бағдарламаларында жалғастыру мүмкіндігі жоқ."},
+        {"title": "Заманауи орта", "description": "Соңғы бірнеше жылда біз Еуроқорлар арқылы құрылғылар, ақпараттық технологиялар және студенттер жатақханаларын жаңартуға қаржы бөлдік. Барлық біздің ғимараттарымыз заманауи стандарттарға сай."},
+        {"title": "Қабылдау емтихандары бойынша стресс жоқ", "description": "Біз қабылдау емтихандарымен кандидаттарды стреске салмаймыз, себебі қысқа уақыттық ауыру студенттің болашағын дисквалификацияламайды деп есептейміз."},
+        {"title": "Жеке көзқарас", "description": "Біздің университетімізде студенттердің саны 'үлкен' университеттермен салыстырғанда аз, сондықтан оқу процесі интимдік болады. Студенттер кіші топтарда оқиды, ал оқытушылар оларға назар аудару үшін жеткілікті уақытқа ие."},
+        {"title": "Студенттік өмір", "description": "Сіздің жаңа студенттік өміріңіз стипендиялар, барлық жерде Wi-Fi, әйгілі ISIC студенттік жеңілдіктер картасы және университеттің асханасында дәмді және қолжетімді тамақпен жақсартылуы мүмкін."}
+      ]
+    },
+    "why-study": {
+      "title": "Неліктен ғылымды оқу керек?",
+      "cards": [
+        {"title": "Білім үшін", "description": "Ғылымды оқу сізге нақты ойлауды үйретеді және кеңінен қабылданған жалған ақпаратты қабылдамауға көмектеседі.\nСіз оқып жатқан салада заманауи білім аласыз.\nБұл сізге сенімділік береді және басқа салаларда да мәселелерді дәл шешуге мүмкіндік береді.\nҒылымды оқу сізге ақпарат іздеуді және оның маңыздылығын бағалауды үйретеді."},
+        {"title": "Болашақ үшін", "description": "Ғылым сізге болашақты көруге мүмкіндік береді.\nОл сізге байланыстарды түсінуге көмектеседі.\nҒылымның көмегімен сіз болашақты тек бақылап қана қоймай, оны жасауда да жетістікке жетесіз.\nҒылымды оқумен сіз өмір мен практикаға дайын боласыз, мектептен кейін жұмыс табасыз."},
+        {"title": "Көңіл көтеру үшін", "description": "Миыңызды жетілдіресіз – оқыту барысында мәселелерді, тапсырмаларды шешіп, құнды тәжірибе жинақтайсыз.\nСіз өзіңізге ұқсас мақсаттары мен қызығушылықтары бар жаңа адамдармен танысасыз.\nОқу мерзімі кезінде жаңа елдерді, әдет-ғұрыптарды зерттеп, халықаралық достар таба аласыз.\nКәсіби тәжірибе арқылы сіз басқа уақытта қол жеткізе алмайтын жұмыс орындарын көре аласыз."}
+      ]
+
+    },
+    "future": {
+      "title": "Кім болғың келетінін білесің бе?",
+      "description": "Мұнда мүмкіндіктерді көрсететін бейнені таба аласыз."
+    },
+    "instagram": {
+      "title": "Бізді Инстаграмда бақылаңыз",
+      "handle": "@fpvai.ukf",
+      "link": "Инстаграмға бару"
+    },
+    "footer": {
+      "text": "Сайтты қарағаныңыз үшін рақмет!",
+      "contact": "Бізбен байланысыңыз",
+      "phone": "Телефон",
+      "email": "Электрондық пошта"
+    },
+    "social": {
+      "instagram": {
+        "url": "https://www.instagram.com/fpvai.ukf",
+        "image": "/foto/ukfi.jpg"
+      },
+      "facebook": {
+        "url": "https://www.facebook.com/fpvai.ukf",
+        "image": "/foto/ukff.jpg"
+      }
+    },
+    "products_title": "Университеттік киім",
+    "currency": "₸",
+    "cart_button": "🛒",
+    "cart_title": "Сіздің себетіңіз",
+    "cart_empty": "Себетіңізде ешқандай өнім жоқ.",
+    "remove_button": "Жою",
+    "total": "Жалпы",
+    "items_count": "Өнімдер саны",
+    "clear_cart": "Себетті тазалау",
+    "size": "Өлшем",
+    "products": [
+      {
+        "id": 1,
+        "name": "Cөмке",
+        "description": "UKF, Сөмке",
+        "price": 6166,
+        "sizes": ["One Size"],
+        "image": "/foto/ukf15.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Ерлерге арналған худи (Ақ)",
+        "description": "FPVaI, Худи",
+        "price": 16810,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf14.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Ерлерге арналған худи (Қара)",
+        "description": "FPVaI, Худи",
+        "price": 16810,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf13.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Әйелдерге арналған Zip худи (Жасыл)",
+        "description": "FPVaI, Худи",
+        "price": 18500,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf12.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Әйелдерге арналған Zip худи (Қара)",
+        "description": "FPVaI, Худи",
+        "price": 18500,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf9.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Әйелдерге арналған Zip худи (Ақ)",
+        "description": "FPVaI, Худи",
+        "price": 18500,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf6.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Әйелдерге арналған футболка (Ақ:FF)",
+        "description": "UKF, Футболка",
+        "price": 6724,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf10.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Әйелдерге арналған футболка (Ақ)",
+        "description": "FPVaI, Футболка",
+        "price": 6724,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf11.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Әйелдерге арналған футболка (Жасыл)",
+        "description": "FPVaI, Футболка",
+        "price": 6724,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf4.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Әйелдерге арналған футболка (Қара)",
+        "description": "FPVaI, Футболка",
+        "price": 16814,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf5.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Ерлерге арналған худи (Қара)",
+        "description": "UKF, Худи",
+        "price": 16814,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf7.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Әйелдерге арналған худи (Көк)",
+        "description": "UKF, Худи",
+        "price": 16814,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf8.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Әйелдерге арналған поло (Ақ)",
+        "description": "FPVaI, Поло",
+        "price": 8444,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf3.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Әйелдерге арналған поло (Қара)",
+        "description": "FPVaI, Поло",
+        "price": 8444,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf2.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Әйелдерге арналған поло (Жасыл)",
+        "description": "FPVaI, Поло",
+        "price": 8444,
+        "sizes": ["S", "M", "L", "XL"],
+        "image": "/foto/ukf1.jpg"
+      }
+    ]
+  }
+}
