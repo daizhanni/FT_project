@@ -86,7 +86,7 @@ export default {
       const section = document.getElementById(id);
       if (section) {
         section.scrollIntoView({ behavior: 'smooth' });
-        this.updateUrlWithoutHash(id); // Убираем хэш
+        this.updateUrlWithoutHash(id); 
       }
     },
     onScroll() {
@@ -97,7 +97,7 @@ export default {
         if (section.offsetTop <= scrollPosition && section.offsetTop + section.offsetHeight > scrollPosition) {
           if (this.activeSection !== section.id) {
             this.activeSection = section.id;
-            this.updateUrlWithoutHash(section.id); // Убираем хэш
+            this.updateUrlWithoutHash(section.id); 
           }
           break;
         }
@@ -106,8 +106,8 @@ export default {
     updateUrlWithoutHash(id) {
       if (history.pushState) {
         const url = new URL(window.location);
-        url.hash = ''; // Убираем хэш из URL
-        history.pushState(null, '', url); // Обновляем URL без хэша
+        url.hash = '';
+        history.pushState(null, '', url); 
       }
     },
   },
